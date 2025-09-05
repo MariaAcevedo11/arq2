@@ -1,1 +1,6 @@
-Profe bienvenido a mi repo. En este especificamente están los tutoriales 2 en adelante hasta el final. El primero (tambien está el segundo pero aquí es el oficial) está en otro repositorio (el cual tienes el link de la entrega del primer tuto) pero para que no te confundas igualmente te dejo esta info :). Cada tutorial está commiteado con el respectivo nombre. 
+Bienvenido al repositorio oficial de tutoriales del 2do en adelante de María Acevedo. 
+Por favor cuando se busquen los tutoriales completados fijarse exactamente en estos commits: 
+
+Tutorial 2: Tutorial 2 Completed 
+Tutorial 3: Tutorial 3 Completed Completed Final this is it don't look at the last one look at this one for tutorial 3 please teacher look at this one (I forgot to upload some stuff lol)
+Tutorial 4: nothing yet 
